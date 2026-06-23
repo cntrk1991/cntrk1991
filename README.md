@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Canturk
 
-💻 Python Developer (Beginner)  
+💻 Python Developer   
 ⚙️ Mechanical Engineer  
 
 ## 🚀 Projects
 - 🌦️ Smart Weather Advisor  
-- 🔤 NameForge (Username Generator)  
+- 🔤 NameForge (Username Generator)
+- Stock-analysis-tool
 
 ## 📌 Goals
 - Improve Python skills  

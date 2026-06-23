@@ -5,10 +5,11 @@
 📊 Excel & Data Analysis
 🚀 Building practical automation tools 
 
-## 🚀 Projects
-- 🌦️ Smart Weather Advisor  
-- 🔤 NameForge (Username Generator)
-- Stock-analysis-tool
+## 📂 Repositories
+
+🌦️ Smart Weather Advisor  
+🔤 NameForge – Username Generator  
+📊 Stock Analysis Tool
 
 ## 📌 Goals
 - Improve Python skills  

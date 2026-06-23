@@ -1,17 +1,21 @@
-# 👋 Hi, I'm Canturk
+# Hi, I'm Canturk 👋
 
-🐍 Python Developer
-⚙️ Mechanical Engineer
-📊 Excel & Data Analysis
-🚀 Building practical automation tools 
+🐍 Python Developer  
+⚙️ Mechanical Engineer  
+📊 Excel & Data Analysis  
+🚀 Building practical automation tools
 
-## 📂 Repositories
+## 📂 Featured Repositories
 
 🌦️ Smart Weather Advisor  
-🔤 NameForge – Username Generator  
-📊 Stock Analysis Tool
+A lightweight weather-based recommendation tool.
 
-## 📌 Goals
-- Improve Python skills  
-- Build practical CLI tools  
-- Transition into software development  
+🔤 NameForge – Username Generator  
+Generate creative and unique usernames instantly.
+
+📊 Stock Analysis Tool  
+Analyze stock availability, shortages, and delivery delays using Excel data.
+
+## 🛠 Tech Stack
+
+Python • Pandas • Excel • Git • GitHub

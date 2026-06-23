@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Canturk
 
-💻 Python Developer   
-⚙️ Mechanical Engineer  
+🐍 Python Developer
+⚙️ Mechanical Engineer
+📊 Excel & Data Analysis
+🚀 Building practical automation tools 
 
 ## 🚀 Projects
 - 🌦️ Smart Weather Advisor  
